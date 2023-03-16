@@ -186,8 +186,8 @@
     font-size: 1rem;
     padding: 0.5rem 1rem;
     margin-top: 1rem;
-    background-color: #2196f3;
-    color: #fff;
+    background-color: var(--blue);;
+    color: var(--white);;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -210,8 +210,8 @@
   .reset__button {
     font-size: 1rem;
     padding: 0.5rem 1rem;
-    background-color: #2196f3;
-    color: #fff;
+    background-color: var(--blue);
+    color: var(--white);;
     border: none;
     border-radius: 5px;
     cursor: pointer;

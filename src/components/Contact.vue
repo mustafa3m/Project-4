@@ -109,7 +109,7 @@
     border-bottom: 1px solid #555;
     padding: 1rem;
     font-size: 1.3rem;
-    color: white;
+    color: var(--white);
     outline: 0;
     
   }
@@ -120,7 +120,7 @@
     border: 0;
     border-radius: 30px;
     background: #f1c40f;
-    color: white;
+    color: var(--white);
     font-weight: 700;
     font-size: 1.3rem;
     cursor: pointer;
