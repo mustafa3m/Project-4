@@ -101,12 +101,12 @@
     height: 20px;
     border-radius: 30px;
     margin-right: 15px;
-    border: 2px solid #333;
+    border: 2px solid var(--dark);;
     margin-top: 50px;
   }
 
   li .todo__name .todo__done {
-    background: #333;
+    background: var(--dark);
   }
   .todo__liste {
     display: flex;
@@ -128,8 +128,8 @@
     text-align: center;
     width: 50px;
     border-radius: 100%;
-    background: #333;
-    color: white;
+    background: var(--dark);
+    color: var(--white);;
   }
 
   .todo__purple {
